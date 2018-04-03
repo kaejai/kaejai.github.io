@@ -64,5 +64,5 @@ header.startup h1 {
 }
 
 #mc_embed_signup form {
-    padding: 10px 0 10px 0px;
+    padding: 10px 0 10px 0px !important;
 }
