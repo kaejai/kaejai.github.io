@@ -62,3 +62,7 @@ header.startup h1 {
 	width: 100%;
 	text-align: center;
 }
+
+#mc_embed_signup form {
+    padding: 10px 0 10px 0px;
+}
