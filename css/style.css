@@ -57,3 +57,8 @@ header.startup h1 {
   border-width: 5px;
   cursor: pointer;
 }
+
+#myButtondiv{
+	width: 100%;
+	text-align: center;
+}
